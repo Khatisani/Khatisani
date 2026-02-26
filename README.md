@@ -1,9 +1,10 @@
-# This is Me
+# Khatisani's Lab
 👩🏻‍💻 Software Developer in training @WeThinkCode<br>
 🧬 Molecular and Cell Biology background<br>
 ⚡ Passionate about the intersection of biology, data & technology<br>
 🌱 Aspiring Computational Biologist
 
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/khatisanimongwe">
@@ -14,13 +15,13 @@
   </a>
 </p>
 
+<br>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-
-## My Tech Vault:
+### My Tech Vault:
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23FFD1DC?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/Python-%23FFD1DC?style=for-the-badge&logo=python&logoColor=black" /> &nbsp;
@@ -29,7 +30,11 @@
   <img src="https://img.shields.io/badge/Vite-%23FFD1DC?style=for-the-badge&logo=vite&logoColor=black" />
 </p>
 
-## 📊 GitHub Stats:
+<br>
+<hr>
+<br>
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khatisani&show_icons=true&theme=rose_pine&count_private=true&include_all_commits=true" alt="Khatisani's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatisani&theme=rose_pine" alt="Khatisani's Streak Stats" height="180px" />
@@ -38,8 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatisani&theme=rose_pine&layout=compact&hide_border=false" alt="Top Languages" height="180px" />
 </p>
-
----
 
 ### 🔝 Top Contributed Repo
 <p align="center">
