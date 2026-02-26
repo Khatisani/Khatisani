@@ -21,7 +21,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-### My Tech Vault:
+### My Tech Vault
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23FFD1DC?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/Python-%23FFD1DC?style=for-the-badge&logo=python&logoColor=black" /> &nbsp;
@@ -35,14 +35,15 @@
 <br>
 
 ### 📊 GitHub Stats
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatisani&show_icons=true&theme=rose_pine&count_private=true&include_all_commits=true" alt="Khatisani's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatisani&theme=rose_pine" alt="Khatisani's Streak Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khatisani&show_icons=true&count_private=true&include_all_commits=true&bg_color=121212&title_color=FFD1DC&text_color=FFFFFF&icon_color=FFD1DC&border_color=FFD1DC&border_radius=10" height="195px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatisani&theme=black-ice&background=121212&fire=FFD1DC&ring=FFD1DC&currStreakLabel=FFD1DC&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFD1DC&stroke=FFD1DC" height="195px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatisani&theme=rose_pine&layout=compact&hide_border=false" alt="Top Languages" height="180px" />
-</p>
+<br>
+
 
 ### 🔝 Top Contributed Repo
 <p align="center">
