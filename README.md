@@ -43,8 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khatisani&show_icons=true&count_private=true&include_all_commits=true&bg_color=121212&title_color=FFD1DC&text_color=FFFFFF&icon_color=FFD1DC&border_color=FFD1DC&border_radius=10" height="195px" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatisani&theme=black-ice&background=121212&fire=FFD1DC&ring=FFD1DC&currStreakLabel=FFD1DC&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFD1DC&stroke=FFD1DC" height="195px" />
-</p>
 
 <br>
 
