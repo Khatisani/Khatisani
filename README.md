@@ -42,6 +42,8 @@
 <hr>
 <br>
 
+
+
 ### 📊 GitHub Stats
 <br>
 <p align="center">
@@ -49,7 +51,12 @@
   
 <br>
 
-### 🔝 Top Contributed Repo
+### 🔝 Featured Project
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Khatisani&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khatisani&repo=Project-8M26&theme=rose_pine" alt="Top Repo" />
+</p>
+
+### 📊 My Coding DNA
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatisani&layout=compact&theme=rose_pine" alt="Khatisani's Top Languages" />
 </p>
