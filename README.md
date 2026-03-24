@@ -47,13 +47,9 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khatisani&show_icons=true&count_private=true&include_all_commits=true&bg_color=121212&title_color=FFD1DC&text_color=FFFFFF&icon_color=FFD1DC&border_color=FFD1DC&border_radius=10" height="195px" />
   
-
 <br>
-
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=khatisani&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Khatisani&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
