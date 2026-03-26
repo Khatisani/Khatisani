@@ -39,7 +39,9 @@
 </p>
 
 <br>
-<hr>
+<p align="center">
+  <img src="assets/korra_bending.gif" width="400" alt="Korra Bending">
+</p>
 <br>
 
 
@@ -60,3 +62,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatisani&layout=compact&theme=rose_pine" alt="Khatisani's Top Languages" />
 </p>
+
