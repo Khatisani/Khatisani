@@ -46,20 +46,19 @@
 
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 <br>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khatisani&show_icons=true&count_private=true&include_all_commits=true&bg_color=121212&title_color=FFD1DC&text_color=FFFFFF&icon_color=FFD1DC&border_color=FFD1DC&border_radius=10" height="195px" />
   
 <br>
 
-### 🔝 Featured Project
+### Featured Project
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khatisani&repo=Project-8M26&theme=rose_pine" alt="Top Repo" />
 </p>
 
-### 📊 My Coding DNA
+### Coding DNA
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatisani&layout=compact&theme=rose_pine" alt="Khatisani's Top Languages" />
 </p>
-
