@@ -45,18 +45,20 @@
 <p align="center">
   <img src="assets/korra_bending.gif" width="400" alt="Korra Bending">
 </p>
+ 
 <br>
 
 
-
-### GitHub Stats
-<br>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=khatisani&show_icons=true&count_private=true&include_all_commits=true&bg_color=121212&title_color=FFD1DC&text_color=FFFFFF&icon_color=FFD1DC&border_color=FFD1DC&border_radius=10" height="195px" />
   
 <br>
+<br>
 
-### Coding DNA
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatisani&layout=compact&theme=rose_pine" alt="Khatisani's Top Languages" />
 </p>
+
+<hr>
+
+
