@@ -53,11 +53,6 @@
   
 <br>
 
-### Featured Project
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khatisani&repo=Project-8M26&theme=rose_pine" alt="Top Repo" />
-</p>
-
 ### Coding DNA
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khatisani&layout=compact&theme=rose_pine" alt="Khatisani's Top Languages" />
