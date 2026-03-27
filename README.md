@@ -16,6 +16,9 @@
   </a> &nbsp;
   <a href="mailto:khatisanimongwe@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23FFD1DC?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a> &nbsp;
+  <a href="https://my-website-beryl-ten-31.vercel.app" >
+    <img src="https://img.shields.io/badge/Website-%23FFD1DC?style=for-the-badge&logo=website&logoColor=black" />
   </a>
 </p>
 
