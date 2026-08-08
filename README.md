@@ -33,9 +33,10 @@
   <img src="https://img.shields.io/badge/Python-%23FFD1DC?style=for-the-badge&logo=python&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/Java-%23FFD1DC?style=for-the-badge&logo=java&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/Solidity-%23FFD1DC?style=for-the-badge&logo=solidity&logoColor=black" /> &nbsp;
+  <img src="https://img.shields.io/badge/SQL-%23FFD1DC?style=for-the-badge&logo=sqlite&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%23FFD1DC?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-%23FFD1DC?style=for-the-badge&logo=typescript&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind CSS-%23FFD1DC?style=for-the-badge&logo=tailwind&logoColor=black" /> &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%23FFD1DC?style=for-the-badge&logo=tailwindcss&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/HTML5-%23FFD1DC?style=for-the-badge&logo=html5&logoColor=black" /> &nbsp;
   <img src="https://img.shields.io/badge/Vite-%23FFD1DC?style=for-the-badge&logo=vite&logoColor=black" />
 </p>
