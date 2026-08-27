@@ -19,6 +19,9 @@
   </a> &nbsp;
   <a href="https://my-website-beryl-ten-31.vercel.app" >
     <img src="https://img.shields.io/badge/Website-%23FFD1DC?style=for-the-badge&logo=website&logoColor=black" />
+  </a> &nbsp;
+  <a href="https://profiles.cyfrin.io/u/khatisani" >
+    <img src="https://img.shields.io/badge/Cyfrin Profile-%23FFD1DC?style=for-the-badge&logo=website&logoColor=black" />
   </a>
 </p>
 
