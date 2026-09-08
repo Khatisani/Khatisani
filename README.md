@@ -10,16 +10,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/khatisanimongwe">
-    <img src="https://img.shields.io/badge/LinkedIn-002FA7?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-002FA7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp;
   <a href="mailto:khatisanimongwe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-b026ff?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-b026ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> &nbsp;
   <a href="https://my-website-beryl-ten-31.vercel.app" >
-    <img src="https://img.shields.io/badge/Website-39ff14?style=for-the-badge&logo=website&logoColor=black" />
+    <img src="https://img.shields.io/badge/Website-39ff14?style=for-the-badge&logo=vercel&logoColor=black" />
   </a> &nbsp;
   <a href="https://profiles.cyfrin.io/u/khatisani" >
-    <img src="https://img.shields.io/badge/Cyfrin%20-FF5F1F?style=for-the-badge&logo=website&logoColor=black" />
+    <img src="https://img.shields.io/badge/Cyfrin-FF5F1F?style=for-the-badge&logo=solidity&logoColor=white" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/scarletwitch.gif" width="400" alt="Scarlet Witch">
+  <img src="https://raw.githubusercontent.com/khatisani/khatisani/main/assets/scarletwitch.gif" width="700" alt="Scarlet Witch">
 </p>
  
 <br>
