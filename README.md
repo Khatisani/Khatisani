@@ -2,11 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFD1DC&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khatisani+✨;Welcome+to+my+profile!;" alt="Typing SVG" />
 </p>
 
-# Khatisani's Lab
-👩🏻‍💻 Software Developer in training @WeThinkCode<br>
-🧬 Molecular and Cell Biology background<br>
-⚡ Passionate about the intersection of biology, data & technology<br>
-🌱 Aspiring Computational Biologist
+<br>
+<p align="center">
+  <em>
+    👩🏻‍💻 Software Engineer & Full-Stack Developer 👩🏻‍💻 <br>
+    🧬 Applied Bioinformatics 🧬<br>
+    ⚡ Tech Mentor and Advocate ⚡ <br>
+  </em>
+</p>
+
 
 <br>
 
