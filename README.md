@@ -45,7 +45,7 @@
  
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <div style="padding: 3px; border-radius: 12px; background: linear-gradient(135deg, #FF1493, #8A2BE2, #00BFFF, #00FF7F); box-shadow: 0 0 20px rgba(255, 20, 147, 0.6);">
   <div style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
     <p align="center">
@@ -56,7 +56,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khatisani&theme=radical" width="90%" alt="Profile Details Card"/>
     </p>
   </div>
-</div>
+</div> -->
 
 <br>
 
